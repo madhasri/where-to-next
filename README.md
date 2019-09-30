@@ -1,5 +1,7 @@
 # Where to next ? - A Recommendation System
 
+![Image of Yaktocat](https://madhasri.github.com/where-to-next/Poster_Final.pdf)
+
 ## Introduction
 In recent years, the use of systems that can make personalized recommendations using user data and
 purchase/visit history has increased significantly. Everyday millions of searches are made on Google,
