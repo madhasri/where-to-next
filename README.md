@@ -20,3 +20,15 @@ Size of the Dataset :
 Reviews 11,453,845
 Users 4,567,431
 Businesses 3,116,785
+
+## Recommender Systems
+
+We implemented the following different types of the recommendation models:
+1. Neighbourhood Model (User-User collaborative filtering)
+2. Latent-Factor Model
+3. Content-Based Model
+
+
+
+
+
