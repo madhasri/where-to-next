@@ -18,9 +18,9 @@ The dataset contains reviews about businesses from Google Local (Google Maps). D
 geographic information for each business as well as the reviews.
 
 Size of the Dataset :
-1. Reviews 11,453,845
-2. Users 4,567,431
-3. Businesses 3,116,785
+1. 11,453,845 Reviews 
+2. 4,567,431 Users 
+3. 3,116,785 Businesses 
 
 ## Recommender Systems
 
