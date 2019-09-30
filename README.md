@@ -11,7 +11,7 @@ and content-based methods, but do not incorporate time information. Hence, we ha
 of collaborative filtering methods to capture the temporal effects while making recommendations.
 This enables the system to make personalized recommendations.
 
-# Data
+## Data
 The dataset contains reviews about businesses from Google Local (Google Maps). Data includes
 geographic information for each business as well as the reviews.
 Size of the Dataset :
