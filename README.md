@@ -1,6 +1,6 @@
 # Where to next ? - A Recommendation System
 
-![Where to next poster](imgs/Poster_Final.pdf)
+![Where to next poster](imgs/poster.jpg)
 
 ## Introduction
 In recent years, the use of systems that can make personalized recommendations using user data and
